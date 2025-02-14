@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "100406486671",
+    "project_id": "damh-6f1bb",
+    "storage_bucket": "damh-6f1bb.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:100406486671:android:9522223de6ebc3e72472fa",
+        "android_client_info": {
+          "package_name": "com.example.damh"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUqyuSGMTmvqDM6JUghmZxLUvyYvXRPXI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
