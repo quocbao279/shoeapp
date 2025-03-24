@@ -1,16 +1,25 @@
-# damh
+Công nghệ sử dụng: Dart, flutter, firebase
 
-A new Flutter project.
+Trang đăng ký:
+![image](https://github.com/user-attachments/assets/1b1a7360-ad5a-42d4-8dba-d7a8d68ae85f)
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+Trang đăng nhập:
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Trang quên mật khẩu:
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+Trang chủ:
+
+
+Trang danh sách sản phẩm:
+
+
+Trang chi tiết sản phẩm:
+
+
+Trang giỏ hàng:
+
+
+check out
